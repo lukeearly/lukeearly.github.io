@@ -23,4 +23,4 @@ jobs:
       with:
         ACCESS_TOKEN: ${{ secrets.pages_pat }}
         BRANCH: gh-pages
-        FOLDER: __sapper__/export/lukeearly.github.io
+        FOLDER: __sapper__/export/
