@@ -20,7 +20,7 @@
 
 <h1>Luke Early</h1>
 
-<p>I'm a student, engineer, and musician with interest and experience in cybersecurity and robotics. Check out my <a href="https://github.com/lukeearly">open source work</a> and a selected <a href="portfolio">portfolio</a> of some projects I'm proud of!</p>
+<p>I'm a student, engineer, and musician with interest in cybersecurity and robotics. Check out my <a href="https://github.com/lukeearly">open source work</a> and a selected <a href="portfolio">portfolio</a> of some projects I'm proud of!</p>
 
 <h2>Skills</h2>
 <ul>
